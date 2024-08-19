@@ -21,7 +21,7 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Salum Sembe",
-  initials: "BJ",
+  initials: "SS",
   location: "Morogoro, Tanzania, GMT",
   locationLink: "https://maps.app.goo.gl/3Spy2b93zDscuJ5u6",
   about:
