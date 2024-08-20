@@ -46,7 +46,7 @@ export const RESUME_DATA = {
       },
       {
         name: "X",
-        url: "https://x.com/salumsembe",
+        url: "https://x.com/Salum_SembeJr?t=EG4GctPa-3PZ9Mi9beffMg&s=09",
         icon: XIcon,
       },
     ],
@@ -142,7 +142,7 @@ export const RESUME_DATA = {
       logo: ParabolLogo,
       link: {
         label: "github.com",
-        href: "link",
+        href: "#",
       },
     },
     {
@@ -159,7 +159,7 @@ export const RESUME_DATA = {
       logo: EvercastLogo,
       link: {
         label: "evercast.us",
-        href: "link",
+        href: "#",
       },
     },
     {
@@ -177,7 +177,7 @@ export const RESUME_DATA = {
       logo: ConsultlyLogo,
       link: {
         label: "consultly.com",
-        href: "link",
+        href: "#",
       },
     },
     {
@@ -210,7 +210,7 @@ export const RESUME_DATA = {
       logo: Minimal,
       link: {
         label: "useminimal.com",
-        href: "link",
+        href: "#",
       },
     },
     // {
