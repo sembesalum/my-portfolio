@@ -82,38 +82,7 @@ export const RESUME_DATA = {
       description:
         "Infrastructure Management: Overseeing and maintaining servers, databases, and network systems to ensure reliable data storage, processing, and accessibility.",
     },
-    // {
-    //   company: "Clevertech",
-    //   link: "https://clevertech.biz",
-    //   badges: ["Remote"],
-    //   title: "Lead Android Developer → Full Stack Developer",
-    //   logo: ClevertechLogo,
-    //   start: "2015",
-    //   end: "2021",
-    //   description:
-    //     "Created Android mobile apps and led teams for companies like Vision Media, DKMS, and AAA. Built a live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
-    // },
-    // {
-    //   company: "Jojo Mobile",
-    //   link: "https://bsgroup.eu/",
-    //   badges: [],
-    //   title: "Android Developer → Lead Android Developer",
-    //   logo: JojoMobileLogo,
-    //   start: "2012",
-    //   end: "2015",
-    //   description:
-    //     "Led the Android team and developed apps for major Polish companies like LOT, Polskie Radio, Agora, and PolskaPress",
-    // },
-    // {
-    //   company: "Nokia Siemens Networks",
-    //   link: "https://www.nokia.com",
-    //   badges: [],
-    //   title: "C/C++ Developer",
-    //   logo: NSNLogo,
-    //   start: "2010",
-    //   end: "2012",
-    //   description: "Developed and tested software for LTE base stations",
-    // },
+    
   ],
   skills: [
     "Flutter",
@@ -126,10 +95,11 @@ export const RESUME_DATA = {
     "AXML, ACSS, JSON",
     "HTML5, CSS",
     "API Testing",
+    "Firebase",
   ],
   projects: [
     {
-      title: "Uni Collect App",
+      title: "TU Chat App",
       techStack: [
         "Flutter (Dart)",
         "Django",
@@ -138,11 +108,11 @@ export const RESUME_DATA = {
         
       ],
       description:
-        "Developed an app that allows students to buy past papers online for their specific courses by subscribing to different packages.",
+        "I developed an app tailored for university students, enabling them to purchase past exam papers specific to their courses through various subscription packages. In addition to this core feature, the app also includes e-commerce functionality, a chatbot for assistance, real-time chatting capabilities, and dedicated sections for events and blogs, providing a comprehensive platform for students to enhance their academic experience.",
       logo: ParabolLogo,
       link: {
         label: "github.com",
-        href: "#",
+        href: "https://play.google.com/store/apps/details?id=com.tuchat.app&pcampaignid=web_share",
       },
     },
     {
@@ -213,79 +183,6 @@ export const RESUME_DATA = {
         href: "#",
       },
     },
-    // {
-    //   title: "Barepapers",
-    //   techStack: ["Side Project", "Next.js", "Puppeteer"],
-    //   description:
-    //     "Generates beautiful wallpapers using random shapes and gradients",
-    //   logo: BarepapersLogo,
-    //   link: {
-    //     label: "barepapers.com",
-    //     href: "https://barepapers.com/",
-    //   },
-    // },
-    // {
-    //   title: "Year progress",
-    //   techStack: ["Side Project", "TypeScript", "Next.js"],
-    //   description: "Tracks current year progress and displays a countdown",
-    //   logo: YearProgressLogo,
-    //   link: {
-    //     label: "getyearprogress.com",
-    //     href: "https://getyearprogress.com/",
-    //   },
-    // },
-    // {
-    //   title: "Mobile Vikings",
-    //   techStack: ["Lead Android Developer", "Android", "Kotlin"],
-    //   description:
-    //     "Android application for leading virtual mobile operator in Poland",
-    //   logo: MobileVikingsLogo,
-    //   link: {
-    //     label: "mobilevikings.pl",
-    //     href: "https://mobilevikings.pl/",
-    //   },
-    // },
-    // {
-    //   title: "Howdy",
-    //   techStack: ["Lead Android Developer", "Android", "Kotlin"],
-    //   description: "Howdy is a place for joining communities you care about",
-    //   logo: Howdy,
-    //   link: {
-    //     label: "play.google.com",
-    //     href: "https://howdy.co/",
-    //   },
-    // },
-    // {
-    //   title: "Tastycloud",
-    //   techStack: ["Lead Android Developer", "Android", "Kotlin"],
-    //   description:
-    //     "Android application for managing and displaying restaurant menus in kiosk mode",
-    //   logo: TastyCloudLogo,
-    //   link: {
-    //     label: "tastycloud.fr",
-    //     href: "https://www.tastycloud.fr/",
-    //   },
-    // },
-    // {
-    //   title: "Ambit",
-    //   techStack: ["Lead Android Developer", "Android", "Kotlin"],
-    //   description:
-    //     "Android application that helps with sharing your contact details",
-    //   logo: AmbitLogo,
-    // },
-    // {
-    //   title: "Bim",
-    //   techStack: ["Lead Android Developer", "Android", "Kotlin"],
-    //   description:
-    //     "Android application that helps with booking a table in a restaurants",
-    //   logo: BimLogo,
-    // },
-    // {
-    //   title: "Canal Digital GO",
-    //   techStack: ["Lead Android Developer", "Android", "Kotlin"],
-    //   description:
-    //     "Video streaming mobile application for Canal Digital subscribers",
-    //   logo: CDGOLogo,
-    // },
+    
   ],
 } as const;
