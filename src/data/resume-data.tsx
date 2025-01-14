@@ -66,7 +66,7 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Software Developer",
       logo: ConsultlyLogo,
-      start: "2022",
+      start: "2023",
       end: null,
       description:
         "We develop innovative software solutions to streamline and automate daily tasks, enhancing productivity and simplifying routines.",
@@ -77,8 +77,8 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "System Administrator",
       logo: ParabolLogo,
-      start: "2024",
-      end: null,
+      start: "2023",
+      end: "2025",
       description:
         "Infrastructure Management: Overseeing and maintaining servers, databases, and network systems to ensure reliable data storage, processing, and accessibility.",
     },
@@ -143,7 +143,7 @@ export const RESUME_DATA = {
         "API Testing",
         
       ],
-      description: "Application for booking tickets and streaming comedy shows and events within the app, by subscribing to different packages.",
+      description: "I have collaborated with other developers to build a mobile app that runs as a mini program within the Vodacom main application for booking tickets and streaming comedy shows and events within the app, by subscribing to different packages.",
       logo: ConsultlyLogo,
       link: {
         label: "consultly.com",
