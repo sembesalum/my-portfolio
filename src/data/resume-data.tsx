@@ -158,7 +158,7 @@ export const RESUME_DATA = {
       logo: MonitoLogo,
       link: {
         label: "monito.dev",
-        href: "https://66c2e8f00e2299a21dc91f80--nimble-belekoy-793055.netlify.app/",
+        href: "https://victorycollage.netlify.app/",
       },
     },
     {
