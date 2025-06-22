@@ -62,7 +62,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "LevelsProTech",
-      link: "https://linkedin.com/company/levelsprotech/",
+      link: "https://levelsprotech.netlify.app/",
       badges: ["Remote"],
       title: "Software Developer",
       logo: ConsultlyLogo,
@@ -70,6 +70,17 @@ export const RESUME_DATA = {
       end: null,
       description:
         "We develop innovative software solutions to streamline and automate daily tasks, enhancing productivity and simplifying routines.",
+    },
+    {
+      company: "BinaryFlow Tech",
+      link: "binaryflowtech.com",
+      badges: ["Remote"],
+      title: "Software Developer",
+      logo: ConsultlyLogo,
+      start: "2025",
+      end: null,
+      description:
+        "A forward-thinking company dedicated to developing innovative applications and website solutions for businesses and organizations, thereby enabling them to excel in the digital landscape.",
     },
     {
       company: "Geoclimatz",
