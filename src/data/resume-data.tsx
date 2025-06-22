@@ -107,6 +107,7 @@ export const RESUME_DATA = {
     "HTML5, CSS",
     "API Testing",
     "Firebase",
+    "NextJs",
   ],
   projects: [
     {
@@ -180,7 +181,7 @@ export const RESUME_DATA = {
       logo: JarockiMeLogo,
       link: {
         label: "github.com",
-        href: "https://levelsprotech-website.vercel.app/",
+        href: "https://levelsprotech.netlify.app/",
       },
     },
     {
