@@ -111,90 +111,136 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "TU Chat App",
+      title: "IBG Mining",
+      techStack: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Django",
+        "Python",
+      ],
+      description:
+        "A comprehensive web platform for mining operations and management. Features include real-time data tracking, resource management, and operational analytics.",
+      logo: AmbitLogo,
+      link: {
+        label: "ibgmining.com",
+        href: "https://ibgmining.com/",
+      },
+    },
+    {
+      title: "Swahilies",
+      techStack: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Django",
+        "Python",
+      ],
+      description:
+        "A modern web development platform showcasing Swahili culture and technology. Features include content management, community engagement, and cultural resources.",
+      logo: JarockiMeLogo,
+      link: {
+        label: "swahilies.dev",
+        href: "https://swahilies.dev/",
+      },
+    },
+    {
+      title: "Geoclimatz",
+      techStack: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Django",
+        "Python",
+      ],
+      description:
+        "An environmental and climate data platform providing real-time weather information, climate analytics, and environmental monitoring tools.",
+      logo: Minimal,
+      link: {
+        label: "geoclimatz.org",
+        href: "https://geoclimatz.org/",
+      },
+    },
+    {
+      title: "TU Chat",
       techStack: [
         "Flutter (Dart)",
         "Django",
         "REST Framework",
         "MySQL",
-        
       ],
       description:
-        "I developed an app tailored for university students, enabling them to purchase past exam papers specific to their courses through various subscription packages. In addition to this core feature, the app also includes e-commerce functionality, a chatbot for assistance, real-time chatting capabilities, and dedicated sections for events and blogs, providing a comprehensive platform for students to enhance their academic experience.",
+        "A mobile messaging application designed for seamless communication. Features include real-time messaging, file sharing, group chats, and multimedia support.",
       logo: ParabolLogo,
       link: {
-        label: "github.com",
+        label: "play.google.com",
         href: "https://play.google.com/store/apps/details?id=com.tuchat.app&pcampaignid=web_share",
       },
     },
     {
-      title: "SmartSchool App",
+      title: "Mkononi Hardware",
       techStack: [
         "Flutter (Dart)",
         "Django",
         "REST Framework",
         "MySQL",
-        
       ],
       description:
-        "Developed an app for LevelsProTech that helps teachers automate their daily tasks, such as planning results, scheduling timetables, managing tasks, and merging multiple results from Excel files.",
+        "A mobile e-commerce application for hardware and construction materials. Features include product catalog, shopping cart, order management, and delivery tracking.",
+      logo: JojoMobileLogo,
+      link: {
+        label: "play.google.com",
+        href: "https://play.google.com/store/apps/details?id=com.mkononihardwareapp.app&pcampaignid=web_share",
+      },
+    },
+    {
+      title: "BinaryFlow",
+      techStack: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Django",
+        "Python",
+      ],
+      description:
+        "A technology solutions platform offering software development services, digital transformation, and IT consulting. Features include service portfolio, case studies, and client resources.",
+      logo: ClevertechLogo,
+      link: {
+        label: "binaryflowtech.com",
+        href: "https://binaryflowtech.com/",
+      },
+    },
+    {
+      title: "Montana Pharmacy",
+      techStack: [
+        "Flutter (Dart)",
+        "Django",
+        "REST Framework",
+        "MySQL",
+      ],
+      description:
+        "A mobile healthcare application for pharmacy services. Features include medicine ordering, prescription management, health tips, and pharmacy locator.",
+      logo: TastyCloudLogo,
+      link: {
+        label: "play.google.com",
+        href: "https://play.google.com/store/apps/details?id=com.montanapharmacy.pharmacy&pcampaignid=web_share",
+      },
+    },
+    {
+      title: "Darasa Langu App",
+      techStack: [
+        "Flutter (Dart)",
+        "Django",
+        "REST Framework",
+        "MySQL",
+      ],
+      description:
+        "A comprehensive school management mobile application for teachers and students. Features include class management, attendance tracking, grade management, lesson plans, timetable, student registration, and subscription plans. Designed to modernize education in Tanzania.",
       logo: EvercastLogo,
       link: {
-        label: "evercast.us",
-        href: "#",
+        label: "smartschool",
+        href: "smartschool/landpage.html",
       },
     },
-    {
-      title: "Cheka Plus Mini App",
-      techStack: [
-        "JavaScript",
-        "AXML",
-        "ACSS",
-        "JSON",
-        "MySQL",
-        "API Testing",
-        
-      ],
-      description: "I have collaborated with other developers to build a mobile app that runs as a mini program within the Vodacom main application for booking tickets and streaming comedy shows and events within the app, by subscribing to different packages.",
-      logo: ConsultlyLogo,
-      link: {
-        label: "consultly.com",
-        href: "#",
-      },
-    },
-    {
-      title: "Victory Website",
-      techStack: ["HTML", "CSS", "JavaScript", "EmailJs"],
-      description:
-        "I build and deploy websites online for customers. I also utilize Django for backend development to create robust and dynamic web applications",
-      logo: MonitoLogo,
-      link: {
-        label: "monito.dev",
-        href: "https://victorycollage.netlify.app/",
-      },
-    },
-    {
-      title: "LevelsProTech Website",
-      techStack: ["HTML", "CSS", "JavaScript", "EmailJs"],
-      description:
-        "I build and deploy websites online for customers. I also utilize Django for backend development to create robust and dynamic web applications",
-      logo: JarockiMeLogo,
-      link: {
-        label: "github.com",
-        href: "https://levelsprotech.netlify.app/",
-      },
-    },
-    {
-      title: "GeoclimaTz Website",
-      techStack: ["HTML", "CSS", "JavaScript", "EmailJs"],
-      description:
-        "I build and deploy websites online for customers. I also utilize Django for backend development to create robust and dynamic web applications",
-      logo: Minimal,
-      link: {
-        label: "useminimal.com",
-        href: "#",
-      },
-    },
-    
   ],
 } as const;
