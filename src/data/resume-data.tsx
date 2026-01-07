@@ -61,15 +61,15 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "LevelsProTech",
-      link: "https://levelsprotech.netlify.app/",
+      company: "Swahilies Company",
+      link: "https://swahilies.dev/",
       badges: ["Remote"],
-      title: "Software Developer",
+      title: "Mobile App Developer",
       logo: ConsultlyLogo,
-      start: "2023",
+      start: "2025",
       end: null,
       description:
-        "We develop innovative software solutions to streamline and automate daily tasks, enhancing productivity and simplifying routines.",
+        "Swahilies Company Limited is a Tanzanian technology firm with deep expertise in building scalable fintech and digital banking solutions tailored for African markets. We develop end to end platforms that empower financial institutions to digitise operations, improve efficiency, and expand financial access.",
     },
     {
       company: "BinaryFlow Tech",
@@ -137,7 +137,7 @@ export const RESUME_DATA = {
         "Python",
       ],
       description:
-        "A modern web development platform showcasing Swahili culture and technology. Features include content management, community engagement, and cultural resources.",
+        "Swahilies Company Limited is a Tanzanian technology firm with deep expertise in building scalable fintech and digital banking solutions tailored for African markets. We develop end to end platforms that empower financial institutions to digitise operations, improve efficiency, and expand financial access.",
       logo: JarockiMeLogo,
       link: {
         label: "swahilies.dev",
