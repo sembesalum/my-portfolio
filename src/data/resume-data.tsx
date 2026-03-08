@@ -122,7 +122,7 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "TU Chat",
+      title: "TU Chat App",
       techStack: [
         "Flutter (Dart)",
         "Django",
@@ -138,7 +138,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Mkononi Hardware",
+      title: "Mkononi Hardware App",
       techStack: [
         "Flutter (Dart)",
         "Django",
@@ -154,7 +154,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Montana Pharmacy",
+      title: "Montana Pharmacy App",
       techStack: [
         "Flutter (Dart)",
         "Django",
