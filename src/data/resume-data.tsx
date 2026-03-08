@@ -246,11 +246,11 @@ export const RESUME_DATA = {
         "MySQL",
       ],
       description:
-        "A comprehensive school management mobile application for teachers and students. Features include class management, attendance tracking, grade management, lesson plans, timetable, student registration, and subscription plans. Designed to modernize education in Tanzania.",
+        "A comprehensive digital classroom management platform for Tanzanian teachers. Features include class management, student results tracking, attendance monitoring, timetable scheduling, lesson schemes, offline functionality, and PDF/Excel report generation. Designed to modernize education in Tanzania with subscription plans for primary, O-Level, and A-Level schools.",
       logo: EvercastLogo,
       link: {
-        label: "smartschool",
-        href: "smartschool/landpage.html",
+        label: "darasalangu.levelsprotech.com",
+        href: "https://darasalangu.levelsprotech.com/",
       },
     },
     {
