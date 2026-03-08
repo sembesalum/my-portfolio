@@ -186,7 +186,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "IBG Mining",
+      title: "IBG Mining Web",
       techStack: [
         "HTML",
         "CSS",
@@ -203,7 +203,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Swahilies",
+      title: "Swahilies Portfolio",
       techStack: [
         "HTML",
         "CSS",
@@ -220,7 +220,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Geoclimatz",
+      title: "Geoclimatz Web",
       techStack: [
         "HTML",
         "CSS",
@@ -237,7 +237,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "BinaryFlow",
+      title: "BinaryFlow Web",
       techStack: [
         "HTML",
         "CSS",
@@ -254,7 +254,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "LevelsProTech Website",
+      title: "LevelsProTech Web",
       techStack: [
         "HTML",
         "CSS",
