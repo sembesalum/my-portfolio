@@ -122,6 +122,70 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "TU Chat",
+      techStack: [
+        "Flutter (Dart)",
+        "Django",
+        "REST Framework",
+        "MySQL",
+      ],
+      description:
+        "Welcome to TU Chat your ultimate university companion! Whether you're a student looking to access past papers, research reports, or study notes, or you need to stay updated with university events, we've got you covered. With features like a timetable manager, task reminders, and an interactive Chat AI, this app helps you stay organized and informed.",
+      logo: ParabolLogo,
+      link: {
+        label: "play.google.com",
+        href: "https://play.google.com/store/apps/details?id=com.tuchat.app&pcampaignid=web_share",
+      },
+    },
+    {
+      title: "Mkononi Hardware",
+      techStack: [
+        "Flutter (Dart)",
+        "Django",
+        "REST Framework",
+        "MySQL",
+      ],
+      description:
+        "A mobile e-commerce application for hardware and construction materials. Features include product catalog, shopping cart, order management, and delivery tracking.",
+      logo: JojoMobileLogo,
+      link: {
+        label: "play.google.com",
+        href: "https://play.google.com/store/apps/details?id=com.mkononihardwareapp.app&pcampaignid=web_share",
+      },
+    },
+    {
+      title: "Montana Pharmacy",
+      techStack: [
+        "Flutter (Dart)",
+        "Django",
+        "REST Framework",
+        "MySQL",
+      ],
+      description:
+        "A mobile healthcare application for pharmacy services. Features include medicine ordering, prescription management, health tips, and pharmacy locator.",
+      logo: TastyCloudLogo,
+      link: {
+        label: "play.google.com",
+        href: "https://play.google.com/store/apps/details?id=com.montanapharmacy.pharmacy&pcampaignid=web_share",
+      },
+    },
+    {
+      title: "Darasa Langu App",
+      techStack: [
+        "Flutter (Dart)",
+        "Django",
+        "REST Framework",
+        "MySQL",
+      ],
+      description:
+        "A comprehensive digital classroom management platform for Tanzanian teachers. Features include class management, student results tracking, attendance monitoring, timetable scheduling, lesson schemes, offline functionality, and PDF/Excel report generation. Designed to modernize education in Tanzania with subscription plans for primary, O-Level, and A-Level schools.",
+      logo: EvercastLogo,
+      link: {
+        label: "darasalangu.levelsprotech.com",
+        href: "https://darasalangu.levelsprotech.com/",
+      },
+    },
+    {
       title: "IBG Mining",
       techStack: [
         "HTML",
@@ -173,38 +237,6 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "TU Chat",
-      techStack: [
-        "Flutter (Dart)",
-        "Django",
-        "REST Framework",
-        "MySQL",
-      ],
-      description:
-        "A mobile messaging application designed for seamless communication. Features include real-time messaging, file sharing, group chats, and multimedia support.",
-      logo: ParabolLogo,
-      link: {
-        label: "play.google.com",
-        href: "https://play.google.com/store/apps/details?id=com.tuchat.app&pcampaignid=web_share",
-      },
-    },
-    {
-      title: "Mkononi Hardware",
-      techStack: [
-        "Flutter (Dart)",
-        "Django",
-        "REST Framework",
-        "MySQL",
-      ],
-      description:
-        "A mobile e-commerce application for hardware and construction materials. Features include product catalog, shopping cart, order management, and delivery tracking.",
-      logo: JojoMobileLogo,
-      link: {
-        label: "play.google.com",
-        href: "https://play.google.com/store/apps/details?id=com.mkononihardwareapp.app&pcampaignid=web_share",
-      },
-    },
-    {
       title: "BinaryFlow",
       techStack: [
         "HTML",
@@ -219,38 +251,6 @@ export const RESUME_DATA = {
       link: {
         label: "binaryflowtech.com",
         href: "https://binaryflowtech.com/",
-      },
-    },
-    {
-      title: "Montana Pharmacy",
-      techStack: [
-        "Flutter (Dart)",
-        "Django",
-        "REST Framework",
-        "MySQL",
-      ],
-      description:
-        "A mobile healthcare application for pharmacy services. Features include medicine ordering, prescription management, health tips, and pharmacy locator.",
-      logo: TastyCloudLogo,
-      link: {
-        label: "play.google.com",
-        href: "https://play.google.com/store/apps/details?id=com.montanapharmacy.pharmacy&pcampaignid=web_share",
-      },
-    },
-    {
-      title: "Darasa Langu App",
-      techStack: [
-        "Flutter (Dart)",
-        "Django",
-        "REST Framework",
-        "MySQL",
-      ],
-      description:
-        "A comprehensive digital classroom management platform for Tanzanian teachers. Features include class management, student results tracking, attendance monitoring, timetable scheduling, lesson schemes, offline functionality, and PDF/Excel report generation. Designed to modernize education in Tanzania with subscription plans for primary, O-Level, and A-Level schools.",
-      logo: EvercastLogo,
-      link: {
-        label: "darasalangu.levelsprotech.com",
-        href: "https://darasalangu.levelsprotech.com/",
       },
     },
     {
