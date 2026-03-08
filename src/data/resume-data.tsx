@@ -63,7 +63,7 @@ export const RESUME_DATA = {
     {
       company: "LevelsProTech",
       link: "https://www.levelsprotech.com/",
-      badges: ["Remote"],
+      badges: [],
       title: "CEO & Founder",
       logo: ConsultlyLogo,
       start: "2021",
