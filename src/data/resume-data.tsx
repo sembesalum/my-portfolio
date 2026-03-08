@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "Proficient in Django and Python for backend and API development, coupled with expertise in Flutter for frontend, I specialize in crafting captivating mobile applications. With a focus on seamless user experiences, I also excel in UX design, ensuring intuitive navigation and engaging interfaces. Passionate about creating innovative solutions, I thrive in collaborative environments, leveraging my skills to deliver impactful mobile experiences that delight users.",
   avatarUrl: "https://avatars.githubusercontent.com/u/102725584?s=400&u=210d51fd5c004f9c2193d6e9c6f5c2078960e38c&v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://www.levelsprotech.com/",
   contact: {
     email: "salumrashidjr@gmail.com",
     tel: "+255 616 107 670",
@@ -60,6 +60,17 @@ export const RESUME_DATA = {
     },
   ],
   work: [
+    {
+      company: "LevelsProTech",
+      link: "https://www.levelsprotech.com/",
+      badges: ["Remote"],
+      title: "CEO & Founder",
+      logo: ConsultlyLogo,
+      start: "2021",
+      end: null,
+      description:
+        "Founded and lead a software development company delivering cutting-edge solutions that drive business growth and efficiency. We cover the full software lifecycle—from validating ideas and designing interfaces to building and scaling secure digital products. Delivered 40+ projects with 98% client satisfaction, specializing in custom software development, UI/UX design, and long-term product partnerships.",
+    },
     {
       company: "Swahilies Company",
       link: "https://swahilies.dev/",
@@ -240,6 +251,23 @@ export const RESUME_DATA = {
       link: {
         label: "smartschool",
         href: "smartschool/landpage.html",
+      },
+    },
+    {
+      title: "LevelsProTech Website",
+      techStack: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Django",
+        "Python",
+      ],
+      description:
+        "A company website showcasing innovative software solutions to streamline and automate daily tasks, enhancing productivity and simplifying routines.",
+      logo: YearProgressLogo,
+      link: {
+        label: "levelsprotech.com",
+        href: "https://levelsprotech.com/",
       },
     },
   ],
